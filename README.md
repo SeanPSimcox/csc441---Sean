@@ -8,9 +8,8 @@ Normal text goes on its own line.
 
 
 
-\-a bullet
-
-\-another bullet
+* a bullet
+* another bullet
 
 
 
