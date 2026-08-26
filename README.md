@@ -13,7 +13,7 @@ Normal text goes on its own line.
 
 
 
-\*\*bold text\*\* and \*italic text\*
+\*\* bold text \*\* and \* italic text \*
 
 `inline code`
 
