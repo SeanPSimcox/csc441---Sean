@@ -1,45 +1,116 @@
-\# Big heading
+# Big heading
 
-\## Smaller heading
+## Smaller heading
 
+### And so-on
 
+Code: #, ##, ###
 
 Normal text goes on its own line.
 
+* A bullet
+* Another bullet
 
+**bold text** and *italic text*. 
 
-* a bullet
-* another bullet
+Code: `**bold text**` and `*italic text*`
+Output: **bold text** and *italic text*
 
+---
 
+`hello world`
 
-**bold text** and *italic text* 
+Code: `` `hello world` ``
+Output: `hello world`
 
-`inline code`
+---
 
+```text
+hello world 2
+hello world 3
+```
 
+Code:
+````
+```text
+hello world 2
+hello world 3
+````
+````
 
-\[a link](https://github.com)
+Output:
+```text
+hello world 2
+hello world 3
+````
 
+---
 
+~~wrong~~ correct
 
-\# CSC 441 — \[Sean P. Simcox]
+Code: `~~wrong~~ correct`
+Output: ~~wrong~~ correct
 
-\## About me
+---
 
-\- \*\*Major: Computer Science\*\*
+@SeanPSimcox
 
-\- \*\*Year: junior\*\*
+Code: `@SeanPSimcox`
+Output: @SeanPSimcox
 
-\- \*\*What I want to build:\*\* ("still deciding")
+---
 
-\## What I'm hoping to learn this semester. More stuff.
+:smile: :heart: :rocket:
 
-\## My setup
+Code: `:smile: :heart: :rocket:`
+Output: :smile: :heart: :rocket:
 
-\- \*\*Computer:\*\* (Windows)
+---
 
-\- \*\*GitHub username:\*Massvoidness\*
+[a link](https://github.com)
 
-\- 
+Code: `[a link](https://github.com)`
+Output: [a link](https://github.com)
+
+# CSC 441 — Sean P. Simcox
+
+> "If at first you don't succeed, try, try again." — Thomas H. Palmer
+
+## About me
+
+- **Major:** Computer Science
+
+- **Year:** Junior
+
+- **What I want to build:** Cloud Engineering and Cyber Security solutions
+
+## What I'm hoping to learn this semester
+
+- Learning web development
+- Building collaborative projects
+- Improving GitHub workflow
+
+## My Goals This Semester
+
+- [x] Learning GitHub markdown
+- [ ] Master cloud engineering concepts
+- [ ] Build my first cloud project
+- [ ] Learn cybersecurity fundamentals
+- [ ] Complete CSC 441 coursework
+- [ ] Contribute to open source
+
+## My setup
+
+- **Computer:** Windows
+
+- **GitHub username:** SeanPSimcox
+
+- **Email:** massvoidness@gmail.com
+
+## GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SeanPSimcox&show_icons=true&theme=dark)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SeanPSimcox&theme=dark)
+
 
