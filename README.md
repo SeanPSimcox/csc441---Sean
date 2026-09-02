@@ -114,3 +114,7 @@ Output: [a link](https://github.com)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SeanPSimcox&theme=dark)
 
 
+## My goals for this course
+- get more comfortable with terminal
+- get more comfortable with git
+- get more comfortable with github
