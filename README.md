@@ -118,3 +118,9 @@ Output: [a link](https://github.com)
 - get more comfortable with terminal
 - get more comfortable with git
 - get more comfortable with github
+
+## Tools I have installed
+- [x] Git
+- [ ] IntelliJ IDEA Community Edition
+- [ ] Android Studio
+- [x] VS code
