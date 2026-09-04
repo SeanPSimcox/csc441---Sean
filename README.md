@@ -124,3 +124,6 @@ Output: [a link](https://github.com)
 - [ ] IntelliJ IDEA Community Edition
 - [ ] Android Studio
 - [x] VS code
+
+## Status
+Just getting started.
