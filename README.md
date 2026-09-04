@@ -126,4 +126,4 @@ Output: [a link](https://github.com)
 - [x] VS code
 
 ## Status
-Just getting started.
+Learning git and feeling good about it.
