@@ -126,4 +126,4 @@ Output: [a link](https://github.com)
 - [x] VS code
 
 ## Status
-Working through branches. Slightly confused but getting there.
+Learning Git. Branches make sense now; merge conflicts are next.
